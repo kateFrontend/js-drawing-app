@@ -1,6 +1,6 @@
 # Drawing App
 
-![cover](./assets/)
+![cover](./drawingApp.gif)
 
 ## 🦉 Main information
 
